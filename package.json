@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "storybook": "start-storybook",
     "lint": "eslint --fix ./"
   },
   "author": "Bluenarysun <tee.emilond@gmail.com>",
